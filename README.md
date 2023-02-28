@@ -1,1 +1,15 @@
 # git-learn
+-git clone url
+    -克隆一个本地仓库
+-git checkout 
+    -切换分支
+-git add
+    -添加
+-git commit
+    -工作区提交本地仓库
+-git push
+    -本地仓库传到远程仓库
+-git pull
+    -和git clone 的区别：clone在本地没有版本时拉取整个远程仓库的项目，pull相当于更新
+-git branch
+    -查看目前所有分支
